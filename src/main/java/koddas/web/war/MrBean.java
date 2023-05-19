@@ -107,5 +107,5 @@ public class MrBean implements Serializable {
 	public void setCarBrand(String carBrand) {
 		this.carBrand = carBrand;
 	}
-}// java webhooks commit on 19-05-2023 // 
+}// java webhooks commit on 19-05-2023 2 webhook // 
 
